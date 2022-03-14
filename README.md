@@ -74,3 +74,5 @@ after a slash. We would then also have to put in a trailing slash at the end of 
 name of the repository, placing instead a hyphen (the reason is that spaces are converted to `%20`).
 
   - Example: http://mybinder.org/v2/gh/binder-examples/r/master?urlpath=shiny/bus-dashboard/
+
+
